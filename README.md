@@ -1,6 +1,6 @@
 # Sensor de Proximidade para Carros
 
-Este projeto implementa um **sensor de proximidade para carros** utilizando tecnologias como Arduino/Raspberry Pi, sensores de ultrassom e displays de LED. O objetivo é permitir que o carro detecte obstáculos próximos e avise o motorista sobre a distância para o objeto.
+Este projeto implementa um **sensor de proximidade para carros** utilizando tecnologias como Arduino, sensores de ultrassom e displays de LED. O objetivo é permitir que o carro detecte obstáculos próximos e avise o motorista sobre a distância para o objeto.
 
 ## Descrição
 
@@ -34,6 +34,7 @@ O projeto é estruturado da seguinte forma:
 /sensor-proximidade-carro/
 │
 |— código do projeto 
+  |-código do projeto.txt
 |— Readme
 |—license
 
@@ -41,3 +42,11 @@ O projeto é estruturado da seguinte forma:
 **Arduino**
 **Clone o repositório:**
 https://github.com/Paulim18/Sensor-de-proximidade-para-carros-.git
+
+**logo depois você copie o código**
+
+# Licença
+**Distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais informações.**
+
+# Link da simulação do Projeto:
+https://www.tinkercad.com/things/5rlHRVG2Fz8-projeto/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=ZHx4ghoANcLEdYnywjym_9TSWlmzPpaQ2Pv90TjVwSQ
