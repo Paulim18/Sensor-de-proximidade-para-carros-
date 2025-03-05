@@ -37,8 +37,7 @@ O projeto é estruturado da seguinte forma:
 |— Readme
 |—license
 
-#Como Configurar e Rodar o Projeto
+# Como Configurar e Rodar o Projeto
 **Arduino**
-Clone o repositório:
-git clone https://github.com/seu-usuario/sensor-proximidade-carro.git
-cd sensor-proximidade-carro
+**Clone o repositório:**
+https://github.com/Paulim18/Sensor-de-proximidade-para-carros-.git
