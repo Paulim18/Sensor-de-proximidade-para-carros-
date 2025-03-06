@@ -28,8 +28,7 @@ Antes de começar a implementação, você precisará dos seguintes componentes:
 - **Placa de ensaio (Protoboard)**
 - **LED RGB**
 
-# Como Configurar e Rodar o Projeto
-**Arduino**
+# Como Configurar e Rodar o Projeto Arduino
 **Clone o repositório:**
 https://github.com/Paulim18/Sensor-de-proximidade-para-carros-.git
 
