@@ -39,3 +39,6 @@ https://github.com/Paulim18/Sensor-de-proximidade-para-carros-.git
 
 # Link da simulação do Projeto:
 https://www.tinkercad.com/things/5rlHRVG2Fz8-projeto/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=ZHx4ghoANcLEdYnywjym_9TSWlmzPpaQ2Pv90TjVwSQ
+
+# Link do Trello 
+https://trello.com/b/RCl8Z283/sistemas-embarcados
